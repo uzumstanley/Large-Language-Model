@@ -25,3 +25,5 @@ Wolfram corpus: 15 sub-LLMs, 500 sub-categories per sub-LLM
 Publisher, 4000 titles: clustering, predicting article performance
 
 ![image](https://github.com/user-attachments/assets/ec1faaac-e0d3-4531-bbf7-ed259ae4f407)
+Sub-LLM Architecture
+
