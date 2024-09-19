@@ -12,3 +12,14 @@ Each sub-LLM built with its own taxonomy and knowledge graph
 Thus, low cost, easy to fine-tune (in milliseconds per sub-LLM)
 Self-tuned based on favorite hyperparameters, and customizable
 No GPU, no latency, better results, local implementation
+
+# Concise results
+Multiple sections displayed to user: links, related content, x-embeddings
+Output with relevancy score attached to each item in each section
+Supports bulk queries, output saved to file
+Great for search, targeted to busy professional users and experts
+
+# Case studies
+Corporate corpus with augmented sources (content + taxonomies)
+Wolfram corpus: 15 sub-LLMs, 500 sub-categories per sub-LLM
+Publisher, 4000 titles: clustering, predicting article performance
